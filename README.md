@@ -1,5 +1,5 @@
 # It's my data science projects
-This repository I've made to learn GitHub fuctionality from the Skillfactory Data Science course
+This repository I've made to learn GitHub fuctionality from the Skillfactory Data Science course.
 
 ## My proj
 
